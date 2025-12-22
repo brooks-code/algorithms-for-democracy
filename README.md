@@ -14,4 +14,4 @@ A think out-of-the-box toy [project with conversational agents](https://github.c
 
 ## Segregation lab
 
-An [implementation](github.com/brooks-code/mistigri) of a [research paper](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0801) where concepts from statistical physics using agent-based modeling, nearest-neighbor interaction ranges and collective segregation dynamics helps to study how information filtering (recommender-like sensory input) controls unicolor cluster formation and by extension: polarization. *(Dec. 2025)*
+An [implementation](https://github.com/brooks-code/mistigri) of a [research paper](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0801) where concepts from statistical physics using agent-based modeling, nearest-neighbor interaction ranges and collective segregation dynamics helps to study how information filtering (recommender-like sensory input) controls unicolor cluster formation and by extension: polarization. *(Dec. 2025)*
